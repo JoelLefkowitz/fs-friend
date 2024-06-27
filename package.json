@@ -1,7 +1,7 @@
 {
   "name": "fs-friend",
   "description": "Functional interface for path transformations and filesystem effects.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "author": "Joel Lefkowitz",
   "repository": "https://github.com/joellefkowitz/fs-friend",
