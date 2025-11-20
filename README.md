@@ -2,7 +2,7 @@
 
 Functional interface for path transformations and filesystem effects.
 
-![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/fs-friend/review.yml)
+![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/fs-friend/review.yaml)
 ![Version](https://img.shields.io/npm/v/fs-friend)
 ![Downloads](https://img.shields.io/npm/dw/fs-friend)
 ![Size](https://img.shields.io/bundlephobia/min/fs-friend)
